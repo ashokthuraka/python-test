@@ -10,3 +10,10 @@ for i in my_list:
     if i>=n:
         list_1.append(i)
 print(list_1)
+
+
+
+###output
+[10,13,22,35,52,83]
+5
+[6,8,10,13,22,35,52,83]
