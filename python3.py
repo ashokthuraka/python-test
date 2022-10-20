@@ -20,3 +20,9 @@ for i in range(n):
 x=employees[1]['address']['country']
 print("The second employees country is ",x)
 
+
+###ouput###
+Tina Devops Engineer new York
+Tim Developer Sydney
+The second employees country is  Australia
+
