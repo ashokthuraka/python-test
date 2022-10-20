@@ -9,4 +9,10 @@ while True:
         print("too high")
     elif guess_num == secret_num:
         print("you won")
-        break
+        
+        
+        ###output###
+ enter the number between (1-10) : 1
+too low
+ enter the number between (1-10) : 2
+you won
